@@ -1,6 +1,6 @@
 # PyTorch Chatbot
 
-In this project we trained a simple chatbot using movie scripts from the Cornell Movie-Dialogs Corpus. We built multi-domain generative conversational model that for teaching a machine to carry out a meaningful conversation with a human in multiple domains.
+In this project we trained a chatbot using movie scripts from the Cornell Movie-Dialogs Corpus. We built multi-domain generative conversational model for teaching a machine to carry out a meaningful conversation with a human in multiple domains.
 
 ## Sample interection with bot
 
